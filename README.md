@@ -13,4 +13,8 @@ For embeddings, I used a Hugging Face embedding model because it is what I was m
 
 ### Prompt 1: "What is the total estimated monthly payment?"
 
+<img width="519" height="144" alt="image" src="https://github.com/user-attachments/assets/ca38ca88-88ed-4b74-9157-92ba70424c17" />
+
 ### Prompt 2: "How much does the borrower pay for lender's title insurance?"
+
+<img width="647" height="147" alt="image" src="https://github.com/user-attachments/assets/b542013d-61af-4291-917a-0cc82a321dbc" />
